@@ -1,9 +1,3 @@
-# 👋 Hello there! Welcome to my GitHub
-
-I'm a beginner Java developer learning how to build cool apps using Java Swing! 🚀  
-Check out my latest project 👇
-
----
 
 ## 🧮 Calculator App - Java Swing
 
@@ -17,7 +11,8 @@ This is one of my first GUI projects to learn:
 - 🎨 Clean UI with `JFrame`, `JPanel`, `JTextField`, and `JButton`
 
 ### 📸 Screenshot
-*(Insert a screenshot of your app here)*
+![Screenshot 2025-05-24 091409](https://github.com/user-attachments/assets/59b2368f-f1f8-4d1e-a958-98b57c1bfcd9)
+
 
 ---
 
